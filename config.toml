@@ -1,0 +1,54 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Buettner Consulting, LLC"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Buettner Consulting is an engineering, science, and technology consulting company."
+    meta_og_title = "Buettner Consulting, LLC"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-hero.netlify.app"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Buettner Consulting is an engineering, science, and technology consulting company."
+#     meta_twitter_card = "summary"
+#     meta_twitter_site = "@zerostaticio"
+#     meta_twitter_creator = "@zerostaticio"
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
+# [[menu.main]]
+#     name = "History"
+#     url = "/history/"
+#     weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
