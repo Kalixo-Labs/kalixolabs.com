@@ -6,4 +6,4 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Buettner Consulting is a firm based in reality; your 
+Buettner Consulting is a firm based in reality; your projects are important to you, and they are important to us. 
