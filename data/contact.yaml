@@ -1,9 +1,9 @@
 email: 'alex@buettnerconsulting.com'
-phone: '(702) ###-####'
+#phone: '(702) ###-####'
 businessName: 'Buettner Consulting, LLC'
-#address: |
-#  123 Some Street
-#  City, State 12345
+address: |
+  4614 Hwy 280 #1020
+  Birmingham, AL 35242
 hours:
   - day: Monday
     open: 8:30am
