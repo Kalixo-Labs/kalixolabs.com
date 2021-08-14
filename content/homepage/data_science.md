@@ -4,8 +4,7 @@ weight: 5
 header_menu: false
 ---
 
-
-Conducting experiments is challenging, and proper analysis thereafter can be overwhelming. Let Buettner Consulting handle the heavy lifting and provide you a publication-ready statistical report that will wow you, and your investors.
+Interested in putting your data to work? Buettner Consulting can bring your data to the forefront of your business, giving you insight into ongoing trends, predict future business opportunities, analyze customer feedback, and give you the confidence that you are doing the most with the data you collect. We have experience working with the most powerful and impactful tools in the machine learning field, and are happy to bring those tools to you. 
 
 <!-- ![Nice picture to make you pay me ;-)](images/pexels-lukas-590016.jpeg) -->
 
