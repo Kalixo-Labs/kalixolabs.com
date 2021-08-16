@@ -8,7 +8,8 @@ header_menu: true
 
 ##### My Background
 
-My name is Alex, im the owner and primary consultant at Buettner Consulting. I have been involved in the engineering and sciences since I was in grade school, and as of the last 9 years, the ever expanding world of data. I hold a bachelors degree in chemical engineering, as well as a masters of science in chemical engineering. My masters thesis was surrounding the use of big data and machine learning to optimize clinical processes, and this field of research really let me expand my skills into the data driven world we live in today.
+My name is Alex, im the owner and primary consultant at Buettner Consulting. I have been involved in science and engineering since I was in grade school, and as of the last 9 years, the ever expanding world of data. I hold a bachelors degree in Chemical Engineering, as well as a Master of Science in Chemical Engineering, from the University of Nevada, Reno. My masters thesis was surrounding the use of big data and machine learning to optimize clinical processes, which led me into the world of data. I fell in love with the subject and havent left since!
+
 
 ##### Professional Experience
 <!-- 
@@ -26,4 +27,4 @@ Senior Systems Programmer at BBVA USA - Birmingham, AL - 2020-Present
 
  -->
 
-I have worked directly in the data science and big data industry for over 4 years.
+I have worked directly in the data science and big data industry for over 4 years; going from a contractor to a senior software engineer during that time. I work primarily with big data systems at a multinational bank, and have worked across business domains in risk, commercial banking, and machine learning development. 
