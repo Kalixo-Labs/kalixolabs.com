@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-weight: 10
+weight: 4
 header_menu: true
 ---
 
