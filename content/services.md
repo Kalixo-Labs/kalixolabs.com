@@ -4,9 +4,6 @@ title: "Services"
 
 This is a page about the services, which we offer.
 
-It carries a lot more detail than what I put on the homepage - I swear!
-
-
 ---
 ## Statistical Analysis
 
