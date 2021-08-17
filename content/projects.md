@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Project Details"
 ---
 
 More details about projects we have worked on.
