@@ -29,6 +29,12 @@ Interested in putting your data to work? We can bring your data to the forefront
 Understanding your data is critical for business, and we understand this whole heartedly. Let us will work with your company to build data pipelines that allow you to clean, access, and explore your data like never before. Big data is the way of the future, and we are here to put it in the hands of your business.
 
 
+---
+
+##### Resume/CV Generation
+Building a great looking resume or CV can be the difference between getting the job or not. We will work with you to design a resume that suits your style, emphasizes your skills, and hits all the key words and phrases used by recruiters and HR professionals. 
+
+
 
 <!-- 
 Want to learn more about my services?
