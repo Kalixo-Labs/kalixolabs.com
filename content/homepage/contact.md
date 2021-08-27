@@ -8,4 +8,4 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+1 (702) 696-8458](tel:+17026968458)
 
-Let us get in touch!
+Lets get in touch!
