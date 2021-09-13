@@ -8,7 +8,7 @@ header_menu: true
 
 ##### My Background
 
-My name is Alex, im the owner and primary consultant at Buettner Consulting. I have been involved in science and engineering since I was in grade school, and as of the last 9 years, the ever expanding world of data. I hold a bachelors degree in Chemical Engineering, as well as a Master of Science in Chemical Engineering, from the University of Nevada, Reno. My masters thesis was surrounding the use of big data and machine learning to optimize clinical processes, which led me into the world of data. I fell in love with the subject and havent left since!
+My name is Alex, im the owner and lead consultant at Buettner Consulting. I have been involved in science and engineering since I was in grade school, and as of the last 9 years, the ever expanding world of data. I hold a bachelors degree in Chemical Engineering, as well as a Master of Science in Chemical Engineering, from the University of Nevada, Reno. My masters thesis was surrounding the use of big data and machine learning to optimize clinical processes, which led me into the world of data. I fell in love with the subject and havent left since!
 
 
 ##### Professional Experience
