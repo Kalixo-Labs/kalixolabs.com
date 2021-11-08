@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo_scroll_theme"
 
 # The "title" of your website
-title = "Kalixo Labs LLC""
+title = "Kalixo Labs LLC"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
