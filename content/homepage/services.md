@@ -10,17 +10,23 @@ Services listed below are our bread and butter. However, if you need something a
 ---
 
 ##### Product Optimization
+
 Optimization of hemp products, namely related to water-solubilization and bioavailable drug delivery. 
 ---
 
 ##### Remediation
+
 Remediation and separation of unwanted or trace elements in your product
 ---
 
 ##### Drug Design and Characterization
+
 Computational studies of compounds and binding site optimization
 
 ---
 
 ##### Lab Design and Setup
+
 Consultation on design and setup of wet labs, analytical equipment, and custom production facilities. 
+
+---
