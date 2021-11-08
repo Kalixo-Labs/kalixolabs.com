@@ -5,6 +5,7 @@ header_menu: true
 ---
 
 {{<icon class="fa fa-envelope">}}&nbsp;[alex@kalixolabs.com](mailto:alex@kalixolabs.com)
+
 {{<icon class="fa fa-envelope">}}&nbsp;[kevin@kalixolabs.com](mailto:kevin@kalixolabs.com)
 
 
