@@ -9,15 +9,15 @@ defaultContentLanguage = "en"
 theme = "hugo_scroll_theme"
 
 # The "title" of your website
-title = "Buettner Consulting"
+title = "Kalixo Labs LLC""
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Alex Buettner"
+    copyright = "© Kalixo Labs LLC"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Engineering, Science, and Technology Consultant"
+    description = "Engineering, Science, and Technology Consultants"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -31,11 +31,11 @@ title = "Buettner Consulting"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Buettner Consulting - Engineering, Science, and Technology Consultant"
+    title = "Kalixo Labs LLC - Engineering, Science, and Technology Consultants"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "engineering, technology, statistics, machine learning, consulting, small, business, consultant"
+        keywords = "engineering, technology, statistics, modeling, computational, hemp, consulting, small, business, consultant"
