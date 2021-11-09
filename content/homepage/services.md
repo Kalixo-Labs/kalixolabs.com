@@ -11,7 +11,7 @@ Services listed below are our bread and butter. However, if you need something a
 
 ##### Product Optimization
 
-Optimization of hemp products, namely related to water-solubilization and bioavailable drug delivery. 
+Optimization of drug delivery, namely related to water-solubilization and bioavailability.
 
 ---
 

@@ -18,7 +18,6 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
 
 
 
-<!-- 
 {{< rawhtml >}}
 <form class="cf">
   <div class="half left cf">
@@ -32,6 +31,6 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
   <input type="submit" value="Submit" id="input-submit">
 </form>
 {{< /rawhtml >}}
- -->
+
 
 
