@@ -38,6 +38,6 @@ title = "Kalixo Labs LLC"
     # hidedesignbyline = true
     
     # Custom CSS stuff
-
+	custom_css = ["/css/form.css"]
     [params.meta]
         keywords = "engineering, technology, statistics, modeling, computational, hemp, consulting, small, business, consultant"
