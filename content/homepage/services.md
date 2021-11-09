@@ -17,18 +17,30 @@ Optimization of hemp products, namely related to water-solubilization and bioava
 
 ##### Remediation
 
-Remediation and separation of unwanted or trace elements in your product
+Remediation and separation of unwanted or trace elements in your product.
 
 ---
 
 ##### Drug Design and Characterization
 
-Computational studies of compounds and binding site optimization
+Computational studies of compounds and binding site optimization.
 
 ---
 
 ##### Lab Design and Setup
 
 Consultation on design and setup of wet labs, analytical equipment, and custom production facilities. 
+
+---
+
+##### Statistical Report Generation
+
+Professional analysis of data for internal and external reports, as well as publication.
+
+---
+
+##### Data Science Services
+
+Custom built analytical models, data exploration, and summarization services for a wide variety of data.
 
 ---
