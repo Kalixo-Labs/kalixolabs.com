@@ -15,34 +15,24 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
 {{<icon class="fa fa-envelope">}}&nbsp;[kevin@kalixolabs.com](mailto:kevin@kalixolabs.com)
  -->
 
-<!-- 
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
- -->
+
+
 
 
 
 {{< rawhtml >}}
 <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
   <p>
-    <label>Email: <input type="text" name="name" /></label>
+    <label> Your Name: <input type="text" name="name" /></label>   
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Your Email: <input type="email" name="email" /></label>
   </p>
-  <div data-netlify-recaptcha="true"></div>
+  <p>
+    <label>   Message: <textarea name="message"></textarea></label>
+  </p>
+    <div data-netlify-recaptcha="true"></div>
+
   <p>
     <button type="submit">Send</button>
   </p>
