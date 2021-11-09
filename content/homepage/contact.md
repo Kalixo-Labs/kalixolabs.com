@@ -19,38 +19,25 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
 
 
 {{< rawhtml >}}
-<form name="contact" class="contact-form width-normal" method="POST" data-netlify="true">
-    <input type="hidden" name="form-name" value="contact" />
-    <!-- Text input-->
-    <div class="form-group">
-        <label class="col-md-4 control-label" for="Name"></label>
-        <div class="col-md-4">
-            <input id="contact-form-name" name="Name" type="text" placeholder="Name" class="form-control input-md" required="" autocomplete="off">
-        </div>
-    </div>
-    <!-- Text input-->
-    <div class="form-group">
-        <label class="col-md-4 control-label" for="Email"></label>
-        <div class="col-md-4">
-            <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="form-control input-md" required="" autocomplete="off">
-        </div>
-    </div>
-    <!-- Text input-->
-    <div class="form-group">
-        <label class="col-md-4 control-label" for="Subject"></label>
-        <div class="col-md-4">
-            <input id="contact-form-subject" name="Subject" type="text" placeholder="Subject" class="form-control input-md" required="" autocomplete="off">
-        </div>
-    </div>
-    <!-- Textarea -->
-    <div class="form-group">
-        <label class="col-md-4 control-label" for=""></label>
-        <textarea class="form-control" id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
-    </div>
-    <!-- Button -->
-    <div class="form-group">
-        <button type="submit" value="Submit" id="Form-submit">Submit</button>
-    </div>
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Role: <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
 </form>
 {{< /rawhtml >}}
 
