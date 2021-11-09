@@ -18,7 +18,7 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
 
 
 
-{{< rawhtml >}}
+
 <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
@@ -39,7 +39,7 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
     <button type="submit">Send</button>
   </p>
 </form>
-{{< /rawhtml >}}
+
 
 
 
