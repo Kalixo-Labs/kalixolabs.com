@@ -19,16 +19,38 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
 
 
 {{< rawhtml >}}
-<form class="cf">
-  <div class="half left cf">
-    <input type="text" id="input-name" placeholder="Name">
-    <input type="email" id="input-email" placeholder="Email address">
-    <input type="text" id="input-subject" placeholder="Subject">
-  </div>
-  <div class="half right cf">
-    <textarea name="message" type="text" id="input-message" placeholder="Message"></textarea>
-  </div>  
-  <input type="submit" value="Submit" id="input-submit">
+<form name="contact" class="contact-form width-normal" method="POST" data-netlify="true">
+    <input type="hidden" name="form-name" value="contact" />
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Name"></label>
+        <div class="col-md-4">
+            <input id="contact-form-name" name="Name" type="text" placeholder="Name" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Email"></label>
+        <div class="col-md-4">
+            <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Subject"></label>
+        <div class="col-md-4">
+            <input id="contact-form-subject" name="Subject" type="text" placeholder="Subject" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Textarea -->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for=""></label>
+        <textarea class="form-control" id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
+    </div>
+    <!-- Button -->
+    <div class="form-group">
+        <button type="submit" value="Submit" id="Form-submit">Submit</button>
+    </div>
 </form>
 {{< /rawhtml >}}
 
