@@ -29,7 +29,6 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
     <label>   Message: <textarea name="message"></textarea></label>
   </p>
     <div data-netlify-recaptcha="true"></div>
-
   <p>
     <button type="submit">Send</button>
   </p>
@@ -39,6 +38,7 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
 
 
 {{< rawhtml >}}
+<link rel="stylesheet" href="/static/css/form.css">
 <form class="cf" name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
   <div class="half left cf">
     <input type="text" id="input-name" placeholder="Name">
