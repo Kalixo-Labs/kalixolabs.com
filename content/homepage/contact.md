@@ -4,6 +4,8 @@ weight: 5
 header_menu: true
 ---
 
+
+
 Data Handling and Business Services, Computational Studies
 
 {{<icon class="fa fa-envelope">}}&nbsp;[alex@kalixolabs.com](mailto:alex@kalixolabs.com)
@@ -15,7 +17,7 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
 
 
 
-
+Unsure who to contact? Please fill out the form below and we will contact you!
 
 {{< rawhtml >}}
 <form name="contact" method="POST" data-netlify="true">      
