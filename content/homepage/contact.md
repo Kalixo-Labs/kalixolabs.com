@@ -38,7 +38,7 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
 
 
 {{< rawhtml >}}
-<link rel="stylesheet" href="/static/css/form.css">
+<link rel="stylesheet" href='{{ "css/form.css" | absURL }}'>
 <form class="cf" name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
   <div class="half left cf">
     <input type="text" id="input-name" placeholder="Name">
