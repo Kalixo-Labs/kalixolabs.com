@@ -17,8 +17,6 @@ Design and Optimization, Computational Studies, Wet Lab Consulting
 
 
 
-
-
 <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
