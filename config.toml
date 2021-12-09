@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Kalixo Labs LLC"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
@@ -13,15 +13,13 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "Kalixo Labs LLC is a consulting firm specializing in computational studies and product optimization."
+    meta_og_title = "Kalixo Labs LLC"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
+    meta_og_url = "https://kalixolabs.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_og_description = "Kalixo Labs LLC is a consulting firm specializing in computational studies and product optimization."
+
 
 [[menu.main]]
 	name = "Services"
