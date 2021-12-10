@@ -1,9 +1,7 @@
-email: 'alex@kalixolabs.com'
-phone: '(702) 696-8458'
+email: 'info@kalixolabs.com'
+phone: '(111) 234-5678'
 businessName: 'Kalixo Labs LLC'
 address: |
-  11380 S Virginia St Apt 1724
-  Reno, NV 89511
 hours:
   - day: Monday
     open: 8:30am
