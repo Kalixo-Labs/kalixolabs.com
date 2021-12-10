@@ -6,4 +6,4 @@ button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Bringing your company into the future is no easy task. Industries have been bound to the technologies they were founded on for decades, and integrating new research into those technologies can be a challenge for even the most modern business. Kalixo Labs is a partner in this ever changing world; you bring the problem, we find the solution. Simple as that. 

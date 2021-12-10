@@ -6,4 +6,5 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Kalixo Labs LLC grew out of a need for knowledgable partners in the computational sciences.
+Bridging the gap between academic research and business applications allows for better access to groundbreaking technology, better products, and a better world.

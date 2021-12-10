@@ -6079,6 +6079,14 @@ html {
 .bg-secondary {
   background-color: #43454d; }
 
+ol {
+  list-style-type: decimal;
+  margin: 0px; }
+
+ul {
+  list-style-type: disc;
+  margin: 0px; }
+
 .page-services-single .content > p:first-of-type {
   font-size: 1.2rem;
   line-height: 1.5;
