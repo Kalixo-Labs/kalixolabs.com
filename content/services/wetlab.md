@@ -1,11 +1,11 @@
 ---
-title: 'Mergers'
+title: 'Wet Lab Design and Setup'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 weight: 2
 draft: false
-heroHeading: 'Mergers & Acquisitions'
+heroHeading: 'Wet Lab Design and Setup'
 heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
 heroBackground: 'services/service2.jpg'
 ---

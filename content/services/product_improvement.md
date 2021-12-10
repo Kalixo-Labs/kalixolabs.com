@@ -1,11 +1,11 @@
 ---
-title: 'Business Advisory'
+title: 'Product Improvement'
 date: 2018-11-28T15:14:39+10:00
 icon: 'services/service-icon-2.png'
-featured: false
-weight: 4
+featured: True
+weight: 3
 draft: false
-heroHeading: 'Business Advisory'
+heroHeading: 'Product Improvement'
 heroSubHeading: 'Expert advice and guidance when you need it most.'
 heroBackground: 'services/service2.jpg'
 ---
