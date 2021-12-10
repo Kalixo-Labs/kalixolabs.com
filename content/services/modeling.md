@@ -10,7 +10,7 @@ heroSubHeading: 'We offer computational modeling services to better understand y
 heroBackground: 'services/service1.jpg'
 ---
 
-Understanding your products and materials is key to grow your business. Kalixo Labs will provide detailed analysis into the atomistic building blocks of your materials, and give your business the insight it needs to improve your products.
+Understanding your products and materials is key to grow your business. Kalixo Labs will provide detailed analysis into the atomistic building blocks of your materials, and give your business the insight it needs to improve and roll out new and exciting products.
 
 
 ## Quantum Mechanical Simulation and Modeling
