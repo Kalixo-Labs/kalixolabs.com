@@ -1,12 +1,12 @@
 ---
-title: 'Wet Lab Design and Setup'
+title: 'Wet Lab Design Consultation'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 weight: 2
 draft: false
-heroHeading: 'Wet Lab Design and Setup'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroHeading: 'Wet Lab Design Consultation'
+heroSubHeading: 'Consulting services for the design of modern wet labs.'
 heroBackground: 'services/service2.jpg'
 ---
 
