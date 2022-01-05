@@ -8,5 +8,5 @@ button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-In a world full of uncertainly, you can be certain you're getting the best. Kalixo Labs is owned and operated by two chemical engineers who decided to put their experience and knowledge to work. We are dedicated to making your business stronger through better science - contact us today to discuss the future of your business.
+In a world full of uncertainty, you can be certain you're getting the best. Kalixo Labs is owned and operated by two chemical engineers who decided to put their knowledge to work. With 25 years of combined coding and engineering experience, we are dedicated to making your business stronger through better science - contact us today to discuss the future.
 
