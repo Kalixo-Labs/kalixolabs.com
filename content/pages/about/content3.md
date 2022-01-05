@@ -1,6 +1,6 @@
 ---
 title: 'Qualified'
-weight: 3
+weight: 1
 date: 2018-12-06T09:29:16+10:00
 background: ''
 align: right
