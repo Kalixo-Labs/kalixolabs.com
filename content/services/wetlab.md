@@ -3,7 +3,7 @@ title: 'Wet Lab Design Consultation'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-3.png'
 featured: true
-weight: 2
+weight: 3
 draft: false
 heroHeading: 'Wet Lab Design Consultation'
 heroSubHeading: 'Consulting services for the design of modern wet labs.'

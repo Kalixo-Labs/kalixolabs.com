@@ -3,7 +3,7 @@ title: 'Data Solutions'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-4.png'
 featured: true
-weight: 4
+weight: 2
 draft: false
 heroHeading: 'Data Solutions'
 heroSubHeading: 'We can help value your business and prepare it for sale.'
