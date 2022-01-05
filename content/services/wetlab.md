@@ -1,7 +1,7 @@
 ---
 title: 'Wet Lab Design Consultation'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+icon: 'services/service-icon-3.png'
 featured: true
 weight: 2
 draft: false
