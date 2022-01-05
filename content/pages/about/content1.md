@@ -7,4 +7,4 @@ background: 'https://source.unsplash.com/WuVnejweXBw/1600x500'
 align: right
 ---
 
-Never limit your ambition. Kalixo Labs LLC was founded with one goal in mind: to make the impossible, possible. We bring this attitude to every project we work on, and never let the world tell us what cant be done.
+Never limit your ambition. Kalixo Labs LLC was founded with one goal in mind: to make the impossible, possible. We bring this attitude to every project we work on, and never let the world tell us what can't be done.
