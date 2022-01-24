@@ -7,7 +7,7 @@ weight: 3
 draft: false
 heroHeading: 'Analytical Chemistry Consultation'
 heroSubHeading: 'Consulting services for the design and operation of modern wet labs.'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/lab.jpg'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
