@@ -1,12 +1,12 @@
 ---
-title: 'Wet Lab Design Consultation'
+title: 'Analytical Chemistry Consultation'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-3.png'
 featured: true
 weight: 3
 draft: false
-heroHeading: 'Wet Lab Design Consultation'
-heroSubHeading: 'Consulting services for the design of modern wet labs.'
+heroHeading: 'Analytical Chemistry Consultation'
+heroSubHeading: 'Consulting services for the design and operation of modern wet labs.'
 heroBackground: 'services/service2.jpg'
 ---
 

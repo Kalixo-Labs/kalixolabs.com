@@ -6,49 +6,31 @@ featured: true
 weight: 2
 draft: false
 heroHeading: 'Data Solutions'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
+heroSubHeading: 'Manage and utilize your data to drive research and business decisions.'
 heroBackground: 'services/service1.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Leveraging data to accelerate and optimize your research and development processes is key to maintaining an advantage in the modern marketplace. Kalixo Labs can help you design and implement data pipelines, perform machine learning analysis, and produce models that can be used in real time to better serve your business and research needs.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## Data Lake Technologies
 
-## Geniti facinus praeruptam atris ab manus in
+Collect and store your data in a central, accessible, and secure location while providing fast access and analytics for your team. We use Hadoop and Spark technologies leverage distributed infrastructure to store and access data, JupyterHub and JupyterLab for ease of access for your researchers, all under the Python ecosystem.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+- Hadoop
+- Spark
+- JupyterHub and JupyterLab
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+## Machine Learning
 
-## Vidit si probetne vertitur
+Use your data to better understand the problems at hand: machine learning can help uncover hidden relationships and important features in your data that may be the key to your research. 
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+- Feature importance
+- Relational maps
+- Predictive classification and regression
+- Neural networks
+- Clustering
+- Production pipelines and APIs
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+
