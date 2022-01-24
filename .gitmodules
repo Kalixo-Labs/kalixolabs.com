@@ -1,0 +1,3 @@
+[submodule "themes/hugo-hero-theme"]
+	path = themes/hugo-hero-theme
+	url = https://github.com/Kalixo-Labs/hugo-hero-theme.git
