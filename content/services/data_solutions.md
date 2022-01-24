@@ -7,7 +7,7 @@ weight: 2
 draft: false
 heroHeading: 'Data Solutions'
 heroSubHeading: 'Manage and utilize your data to drive research and business decisions.'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'services/data.jpg'
 ---
 
 Leveraging data to accelerate and optimize your research and development processes is key to maintaining an advantage in the modern marketplace. Kalixo Labs can help you design and implement data pipelines, perform machine learning analysis, and produce models that can be used in real time to better serve your business and research needs.
