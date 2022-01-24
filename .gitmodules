@@ -1,6 +1,0 @@
-[submodule "themes/hugo-hero-theme"]
-	path = themes/hugo-hero-theme
-	url = git@github.com:Kalixo-Labs/hugo-hero-theme.git
-[submodule "themes/hugo_scroll_theme"]
-	path = themes/hugo_scroll_theme
-	url = https://github.com/Buettner-Consulting/hugo_scroll_theme
