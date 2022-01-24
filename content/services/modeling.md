@@ -7,7 +7,7 @@ featured: true
 weight: 1
 heroHeading: 'Computational Modeling'
 heroSubHeading: 'We offer computational modeling services to better understand your materials'
-heroBackground: 'static/services/comp_chem.jpeg'
+heroBackground: 'services/comp_chem.jpeg'
 ---
 
 Understanding your products and materials is key to growing your business. Kalixo Labs will provide detailed analysis into the atomistic building blocks of your materials, and give your business the insight it needs to improve and roll out new and exciting products.
