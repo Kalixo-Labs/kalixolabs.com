@@ -25,7 +25,7 @@ Docking simulations have become one of the most prominent methods for understand
 
 ## Molecular Dynamics Simulation and Modeling
 
-Dynamics 
+Dynamics are a very important aspect of living systems, especially at the sub-cellular level. Simulating intracellular and transmembrane proteins using molecular dynamics methods can prove to be paramount for discovering channel activation pathways and catalytic site preferences. Protein-ligand docking calculations are a very cost-effective tool to test a large number of potential drugs prior to wasting valuable resources in a wet lab setting.
 
 - Protein/ligand interaction simulations
 - Membrane bound protein simulations
