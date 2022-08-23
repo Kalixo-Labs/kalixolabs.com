@@ -1,7 +1,7 @@
 ---
 title: 'Data Solutions'
 date: 2018-11-28T15:15:26+10:00
-icon: 'services/service-icon-4.png'
+icon: 'services/data-icon.png'
 featured: true
 weight: 2
 draft: false
