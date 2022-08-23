@@ -10,6 +10,8 @@ heroSubHeading: 'We offer biophysical modeling services to better understand you
 heroBackground: 'services/comp_chem.jpeg'
 ---
 
+Modeling of proteins and ligands for energetic calculations and dynamical interactions.
+
 
 
 ## Molecular Docking
