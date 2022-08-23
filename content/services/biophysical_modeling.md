@@ -10,7 +10,9 @@ heroSubHeading: 'We offer biophysical modeling services to better understand you
 heroBackground: 'services/comp_chem.jpeg'
 ---
 
-Modeling of proteins and ligands for energetic calculations and dynamical interactions.
+Modeling of proteins and ligands for energetic calculations and dynamical interactions to provide binding site preference, thermodynamic properties, and elucidate catalytic pathways. 
+
+
 
 
 
@@ -19,7 +21,7 @@ Modeling of proteins and ligands for energetic calculations and dynamical intera
 Docking simulations have become one of the most prominent methods for understanding how small molecules interact with larger structures, giving insight into how and where your product will interact with its surroundings in solution. Protein-ligand docking calculations are a very cost-effective tool to test a large number of potential drugs prior to wasting valuable resources in a wet lab setting. We have the expertise to bring you docking characteristics in many use cases, including the following:
 
 - Ligand/protein docking
-- Small molecule binding preferences
+- Small molecule binding
 - Ligand Design
 
 
