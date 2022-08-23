@@ -1,7 +1,7 @@
 ---
 title: 'Biophysical Modeling'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/protein-80_80.png'
+icon: 'services/protein.png'
 draft: false
 featured: true
 weight: 1
